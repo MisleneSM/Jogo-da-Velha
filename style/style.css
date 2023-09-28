@@ -18,7 +18,8 @@ h1 {
 #buttons-container button{
     border: none;
     padding: 10px, 15px;
-    margin: 20px 10px;;
+    margin: 20px 10px;
+    cursor: pointer;
 }
 
 #players2, #aiPlayer {
