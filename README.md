@@ -19,9 +19,9 @@ Desenvolvido por:
 
 ## 1. Resumo do Projeto🤩
 
-Desenvolvido um mini projeto de jogo da velha para melhorar os meus conhecimentos na linguagem Java Script através do curso realizado do canal [Hora de Codar](https://horadecodar.com.br/){:target="_blank"}.
+Desenvolvido um mini projeto de jogo da velha para melhorar os meus conhecimentos na linguagem Java Script através do curso realizado do canal [Hora de Codar](https://horadecodar.com.br/).
 
-Se você é amante de jogos e de competição, e deseja se divertir com seus amigos ou encarar uma partida com a nossa IA basta clicar [aqui]()
+Se você é amante de jogos e de competição, e deseja se divertir com seus amigos ou encarar uma partida com a nossa IA basta clicar [aqui](https://jogo-da-velha-rose.vercel.app/)
 
 ## 2. Objetivos de aprendizagem✅
 
