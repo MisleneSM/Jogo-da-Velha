@@ -123,9 +123,9 @@ function checkWindCondition() {
         let b7Child = b7.childNodes[0].className;
 
         if (b1Child == 'x' && b4Child == 'x' && b7Child == 'x') {
-            console.log('x venceu')
+            declareWinner('x')
         } else if (b1Child == 'o' && b4Child == 'o' && b7Child == 'o') {
-            console.log('o venceu')
+            declareWinner('o')
         }
     }
 
