@@ -34,6 +34,6 @@ Se você é amante de jogos e de competição, e deseja se divertir com seus ami
 ![Inicio](./src/image.png) 
 ![Start](./src/image-1.png)
 
-## 5. Tecnologias Utilizadas✅ 
+## 3. Tecnologias Utilizadas✅ 
 
   <img alt="HTML" height="50"  src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png"> <img alt="CSS" height="50" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-512.png"> <img alt="JS" height="50" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"> <img alt="git" height="40"  src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" /> <img alt="github" height="45"  src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/github-256.png" />
