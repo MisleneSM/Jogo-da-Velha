@@ -1,7 +1,11 @@
 # Jogo da Velha
 
-Desenvolvido por: Mislene Moura - [Linkedin](https://www.linkedin.com/in/mislene-silva-moura-1211531b4//) |
+<div align="center">
+
+Desenvolvido por:
+<br>Mislene Moura - [Linkedin](https://www.linkedin.com/in/mislene-silva-moura-1211531b4//) |
    [Github](https://github.com/MisleneSM)
+</div>
    
 ***
 
