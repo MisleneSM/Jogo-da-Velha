@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background-color: aqua;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 42px;
+    margin-top: 40px;
+}
+
+#buttons-container button{
+    border: none;
+    padding: 10px, 15px;
+    margin: 20px 10px;;
+}
+
+#players2, #aiPlayer {
+    width: 100px;
+    height: 30px;
+}
+
+#container {
+    display: flex;
+    width: 300px;
+    margin: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.box {
+    height: 100px;
+    border: 5px solid #000;
+    box-sizing: border-box;
+    flex: 1 1 33%;
+}
+
+#block1, #block2, #block3{
+    border-top: none;
+}
+
+#block1, #block4, #block7{
+    border-left: none;
+}
+
+#block7, #block8, #block9{
+    border-bottom: none;
+}
+
+#block3, #block6, #block9{
+    border-right: none;
+}
+
+.x {
+  font-size: 65px;
+  color: red;
+  display: inline-block;
+  line-height: 100px;
+}
+
+.o {
+  width: 50px;
+  height: 50px;
+  border: 5px solid green;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 17px;
+}
+
+.hide {
+    display: none !important;
+}
+
+#scoreboardContainer {
+    font-weight: bold;
+    margin-top: 60px;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    margin-bottom: 25px;
+}
+
+.scoreBox {
+    margin: 0 20px;
+}
+
+#xScoreBoard {
+    color: red;
+    margin-right: 3px;
+}
+
+#oScoreBoard {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border: 2px solid green;
+    border-radius: 50%;
+    margin-right: 3px;
+}
+
+#message p {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 240px;
+    width: 500px;
+    font-size: 50px;
+    background-color: pink;
+    color: #000;
+    padding: 20px;
+}
+
+@media screen and (max-width:600px){
+    #message p {
+        width: 300px;
+        font-size: 30px;
+        top: 250px;
+    }
+}
+
+@media screen and (max-width:350px){
+    h1 {
+        font-size: 35px;
+        margin-top: 40px;
+    }
+      
+    #players2, #aiPlayer {
+        width: 90px;
+        height: 30px;
+        font-size: 0.7rem;
+    }
+    
+    #container {
+        width: 220px;
+    }
+    
+    .box {
+        height: 80px;
+    }
+     
+    .x {
+      font-size: 40px;
+      line-height: 70px;
+    }
+    
+    .o {
+      width: 30px;
+      height: 30px;
+      margin-top: 20px;
+    }
+ 
+    #message p {
+        width: 200px;
+        font-size: 25px;
+        top: 200px;
+    }
+}
